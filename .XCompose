@@ -1,0 +1,6 @@
+include "%L"
+
+<Multi_key> <Cyrillic_o> <Cyrillic_u> : "ѹ"
+<Multi_key> <Cyrillic_O> <Cyrillic_U> : "Ѹ"
+<Multi_key> <Cyrillic_u> <Cyrillic_u> : "ꙋ"
+<Multi_key> <Cyrillic_U> <Cyrillic_U> : "Ꙋ"
