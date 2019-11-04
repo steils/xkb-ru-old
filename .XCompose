@@ -1,5 +1,7 @@
 include "%L"
 
+<Multi_key> <Cyrillic_ghe> <Cyrillic_ghe> : "ґ"
+<Multi_key> <Cyrillic_GHE> <Cyrillic_GHE> : "Ґ"
 <Multi_key> <Cyrillic_o> <Cyrillic_u>	: "ѹ"
 <Multi_key> <Cyrillic_O> <Cyrillic_U>	: "Ѹ"
 <Multi_key> <Cyrillic_u> <Cyrillic_u>	: "ꙋ"
