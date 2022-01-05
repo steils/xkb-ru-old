@@ -9,3 +9,7 @@ include "%L"
 <Multi_key> <equal> <asciitilde>	: "≅" # Congruent
 <Multi_key> <asciitilde> <equal>	: "≊" # Almost equal or equal
 <Multi_key> <asciitilde> <asciitilde>	: "≈"
+<Multi_key> <0x01000466> <0x01000466>	: "Ѩ" # Ѧ+Ѧ
+<Multi_key> <0x01000467> <0x01000467>	: "ѩ" # ѧ+ѧ
+<Multi_key> <0x0100046A> <0x0100046A>	: "Ѭ" # Ѫ+Ѫ
+<Multi_key> <0x0100046B> <0x0100046B>	: "ѭ" # ѫ+ѫ
